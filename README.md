@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a technical support analyst at a fintech (payments services provider)
-- 🌱 I’m currently learning Solidity
+- 🔭 I’m currently working as a technical support analyst at a fintech
+- 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate on web3 projects
 - 😄 Pronouns: she/her
 <!--
